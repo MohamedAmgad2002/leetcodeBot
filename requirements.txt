@@ -3,3 +3,4 @@ discord.py==2.1.0
 asyncio
 pytz==2022.7.1
 flask
+python-dotenv==0.21.1
