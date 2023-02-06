@@ -9,19 +9,21 @@ This Discord bot allows users to get Leetcode problems directly in the Discord c
 * ![sample output](/Resources/sampleOutput.png)
 
 ## Installation
-1. Clone the repository to your local machine
-(```https://github.com/MohamedAmgad2002/leetcodeBot.git```)
-2. Install the required packages
-(```pip install -r requirements.txt```)
+1. Clone the repository to your local machine:```https://github.com/MohamedAmgad2002/leetcodeBot.git```
+
+2. Install the required packages:
+```pip install -r requirements.txt```
+
 3. Rename `.env.example` to `.env` and fill in your Discord bot token
-4. Start the bot
-(```python main.py```)
+
+4. Start the bot:
+```python main.py```
 ## Usage
 The bot can be invoked in any Discord text channel by using the following command syntax:
-(```.prob [problem diffiecultiy]```)
+```.prob [problem diffiecultiy]```
 ## Help
 You can know more commands by using the following command syntax:
-(```.help```)
+```.help```
 ## Contributions
 We welcome contributions to this project. If you have any suggestions or bug reports, please create an issue or a pull request.
 ## License
