@@ -9,7 +9,7 @@ This Discord bot allows users to get Leetcode problems directly in the Discord c
 * ![sample output](/Resources/sampleOutput.png)
 
 ## Installation
-1. Clone the repository to your local machine:```https://github.com/MohamedAmgad2002/leetcodeBot.git```
+1. Clone the repository to your local machine: ```https://github.com/MohamedAmgad2002/leetcodeBot.git```
 
 2. Install the required packages:
 ```pip install -r requirements.txt```
