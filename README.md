@@ -5,8 +5,7 @@ This Discord bot allows users to get Leetcode problems directly in the Discord c
 
 ## Features
 * Search Leetcode problems by difficulty (easy-medium-hard)
-* ![sample input](/Resources/sampleInput.png)
-* ![sample output](/Resources/sampleOutput.png)
+* Set timer to sent a new problem 
 
 ## Installation
 1. Clone the repository to your local machine: ```https://github.com/MohamedAmgad2002/leetcodeBot.git```
